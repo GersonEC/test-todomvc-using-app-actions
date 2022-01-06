@@ -1,0 +1,2 @@
+-Convert to function components with hooks.
+-Install typescript.

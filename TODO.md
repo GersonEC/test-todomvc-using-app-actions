@@ -1,3 +1,4 @@
+-Install Cypress testing library. ✔
 -Convert to function components with hooks.
 -Install typescript.
 -Install RTL.
